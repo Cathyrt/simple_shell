@@ -81,5 +81,5 @@ while (*str)
 {
 i += _putfd(*str++, fd);
 }
-return(i);
+return (i);
 }
