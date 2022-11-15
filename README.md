@@ -1,1 +1,1 @@
-Simple shell team project
+This is simlpe shell collaboration project
